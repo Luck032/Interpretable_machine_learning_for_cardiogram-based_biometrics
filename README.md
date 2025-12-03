@@ -1,11 +1,6 @@
 # Interpretable Machine Learning for Cardiogram-Based Biometrics
 
-This repository contains Python code used to reproduce the results presented in the paper:
-
-**Tanasković, I. et al. (2025). _Interpretable machine learning for cardiogram-based biometrics._ arXiv preprint.**  
-https://doi.org/10.48550/arXiv.2510.19775
-
----
+This repository contains Python code used to reproduce the results presented in the paper "Interpretable machine learning for cardiogram-based biometrics".
 
 ## 📘 Citation
 
