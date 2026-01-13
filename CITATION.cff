@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or code, please cite the following paper."
+title: "Interpretable machine learning for cardiogram-based biometrics"
+authors:
+  - family-names: Tanasković
+    given-names: Ilija
+  - family-names: Lazarević
+    given-names: Ljiljana B.
+  - family-names: Knežević
+    given-names: Goran
+  - family-names: Milosavljević
+    given-names: Nikola
+  - family-names: Dubljević
+    given-names: Olga
+  - family-names: Bjegojević
+    given-names: Bojana
+  - family-names: Miljković
+    given-names: Nadica
+year: 2025
+type: article
+repository-code: "https://arxiv.org/abs/2510.19775"
+identifiers:
+  - type: arxiv
+    value: "2510.19775"
+url: "https://arxiv.org/abs/2510.19775"
+license: CC-BY-4.0
