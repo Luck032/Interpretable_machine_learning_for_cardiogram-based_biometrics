@@ -2,7 +2,10 @@
 
 This repository contains Python code used to reproduce the results presented in the paper "Interpretable machine learning for cardiogram-based biometrics".
 
-## 📘 Citation
+## Funding
+Nadica Miljković acknowledges the support from the Ministry of Science, Technological Development and Innovation of the Republic of Serbia [Grant No. 451-03-137/2025-03/200103]; Ljiljana B. Lazarević and Goran Knežević acknowledge the support from the Ministry of Science, Technological Development, and Innovation of the Republic of Serbia [Grant No.  451-03-66/2025-03/200163]; Nikola Milosavljević acknowledges the support from the Ministry of Science, Technological Development and Innovation of the Republic of Serbia [Grant No. 451-03-137/2025-03/200096]. The funder was not involved in the preparation of the manuscript or in the decision to submit it. Additionally, the funder was not involved in the study design, data collection, data analysis, or results interpretation.
+
+## Citation
 
 If you find this repository useful for your research, academic work, or teaching, please cite the following reference:
 
