@@ -5,7 +5,7 @@ authors:
 - family-names: "Tanasković"
   given-names: "Ilija"
 - family-names: "Lazarević"
-  given-names: "Ljiljana B."
+  given-names: "Ljiljana"
 - family-names: "Knežević"
   given-names: "Goran"
 - family-names: "Milosavljević"
@@ -16,16 +16,19 @@ authors:
   given-names: "Bojana"
 - family-names: "Miljković"
   given-names: "Nadica"
-url: "https://arxiv.org/abs/2510.19775"
+version: "v1.0.0"
+doi: "10.5281/zenodo.17804970"
+date-released: 2025-01-05
+url: "https://doi.org/10.5281/zenodo.17804970"
 
 preferred-citation:
-  type: article
+  type: software
   title: "Interpretable machine learning for cardiogram-based biometrics"
   authors:
   - family-names: "Tanasković"
     given-names: "Ilija"
   - family-names: "Lazarević"
-    given-names: "Ljiljana B."
+    given-names: "Ljiljana"
   - family-names: "Knežević"
     given-names: "Goran"
   - family-names: "Milosavljević"
@@ -36,8 +39,7 @@ preferred-citation:
     given-names: "Bojana"
   - family-names: "Miljković"
     given-names: "Nadica"
+  version: "v1.0.0"
+  doi: "10.5281/zenodo.17804970"
   year: 2025
-  archive: arXiv
-  archive-prefix: arXiv
-  arxiv: "2510.19775"
-  url: "https://arxiv.org/abs/2510.19775"
+  publisher: "Zenodo"
